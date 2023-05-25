@@ -1,0 +1,11 @@
+{
+    "users":[
+        { 
+            "id":1,
+            "name":"himani",
+            "age":25,
+            "gender":"female",
+            "place":"gonda"
+        }
+    ]
+}
